@@ -1,5 +1,4 @@
 const students =[
-	
 	{firstName: "Tunde",
      lastName: "Dada",
 	 age: 19,
